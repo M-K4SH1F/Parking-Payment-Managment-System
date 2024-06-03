@@ -23,10 +23,10 @@ The Parking Payment Management System is a Java-based application with a user-fr
 
 ## Team
 
-Mohammed Kashif Ahmed - Documentation Lead & Technical Support
-Ben Chase - Progress Facilitator
-Patrick Wilson - Technical Lead
-Naman Verma - Project Manager
+- Mohammed Kashif Ahmed - Documentation Lead & Technical Support
+- Ben Chase - Progress Facilitator
+- Patrick Wilson - Technical Lead
+- Naman Verma - Project Manager
 
 ## Features
 
