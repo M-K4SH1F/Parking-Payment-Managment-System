@@ -59,13 +59,22 @@ The application follows a modular design with the following key components:
    - Database Management: Handles data storage, retrieval, and reporting functionalities.
 
 1. Primary/Main Functions:
+
+
    ![image](https://github.com/M-K4SH1F/Parking-Payment-Managment-System/assets/159590221/1337b36f-2cd9-4364-b186-5d7623466ff3)
+
    
-2. Secondary Functions Design:
+3. Secondary Functions Design:
+
+   
    ![image](https://github.com/M-K4SH1F/Parking-Payment-Managment-System/assets/159590221/8b03e580-d9ca-47a2-8e32-bfd75eef19fb)
 
-3. DataBase Design:
+   
+5. DataBase Design:
+
+   
    ![image](https://github.com/M-K4SH1F/Parking-Payment-Managment-System/assets/159590221/f36af709-ffa0-4176-8e4a-0e879e21c55c)
+
 
 
 ## Testing
@@ -95,3 +104,11 @@ We welcome contributions to enhance the Parking Payment Management System. Pleas
    ```bash
    git clone https://github.com/yourusername/Parking-Payment-Management-System.git
    cd Parking-Payment-Management-System
+2. **Setup Database:**
+   - Ensure you have installed MySQL or any other compatible DBMS.
+   - Create a database and import the provided SQL schema.
+3. **Configure Application:**
+   - Update the database connection details in the application's configuration file.
+4. **Compile and Run:**
+   - Open the project in your preferred IDE.
+   - Compile and run the application.
